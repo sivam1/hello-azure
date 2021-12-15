@@ -35,8 +35,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${app.runtime}</muleVersion>
-						<username>kamsali</username>
-						<password>Manorama$1</password>
+						<username></username>
+						<password></password>
 						<applicationName>hello-azure</applicationName>
 						<environment>Sandbox</environment>
 						<region>${region}</region>
@@ -45,8 +45,8 @@
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<mule.env>staging</mule.env>
-							<anypoint.platform.client_id>0e86c6c4afe34eacba9faa9d2e5c114e</anypoint.platform.client_id>
-							<anypoint.platform.client_secret>0ee7802Bdea44cdf86EbC8370DeF50c1</anypoint.platform.client_secret>
+							<anypoint.platform.client_id>-</anypoint.platform.client_id>
+							<anypoint.platform.client_secret>-</anypoint.platform.client_secret>
 							<api.id>${ilg.api.version}</api.id>
 							<anypoint.platform.config.analytics.agent.enabled>true</anypoint.platform.config.analytics.agent.enabled>
 						</properties>
